@@ -1,9 +1,9 @@
 %global tl_name intexgral
-%global tl_revision 79814
+%global tl_revision 79860
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	4.1.0
+Version:	4.1.1
 Release:	%{tl_revision}.1
 Summary:	A LaTeX package for typesetting integrals
 Group:		Publishing
